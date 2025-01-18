@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/steflev-portfolio/static/css/main.a335da96.css",
+    "main.js": "/steflev-portfolio/static/js/main.ba74f21e.js",
+    "index.html": "/steflev-portfolio/index.html",
+    "main.a335da96.css.map": "/steflev-portfolio/static/css/main.a335da96.css.map",
+    "main.ba74f21e.js.map": "/steflev-portfolio/static/js/main.ba74f21e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a335da96.css",
+    "static/js/main.ba74f21e.js"
+  ]
+}
