@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/steflev-portfolio/static/css/main.a335da96.css",
-    "main.js": "/steflev-portfolio/static/js/main.ba74f21e.js",
-    "index.html": "/steflev-portfolio/index.html",
-    "main.a335da96.css.map": "/steflev-portfolio/static/css/main.a335da96.css.map",
-    "main.ba74f21e.js.map": "/steflev-portfolio/static/js/main.ba74f21e.js.map"
+    "main.css": "/static/css/main.a335da96.css",
+    "main.js": "/static/js/main.5f96ae5c.js",
+    "index.html": "/index.html",
+    "main.a335da96.css.map": "/static/css/main.a335da96.css.map",
+    "main.5f96ae5c.js.map": "/static/js/main.5f96ae5c.js.map"
   },
   "entrypoints": [
     "static/css/main.a335da96.css",
-    "static/js/main.ba74f21e.js"
+    "static/js/main.5f96ae5c.js"
   ]
 }
