@@ -7,6 +7,11 @@ import Footer from "./components/Footer";
 import './index.css';
 import './App.css';
 
+// Import slick-carousel styles (this will be used globally)
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
+// Import react-image-lightbox styles
+import "react-image-lightbox/style.css";
 
 function App() {
   return (
